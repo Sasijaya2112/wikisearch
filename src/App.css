@@ -1,0 +1,16 @@
+#output{
+    background-color:rgb(237, 185, 146);
+    text-decoration:none;
+    font-style: normal;
+    margin-left: -40px;
+    padding-left: 20px;
+}
+
+#input{
+    width: 300px;
+    height: 20px;
+}
+
+h1{
+    font-size: 50px;
+}
